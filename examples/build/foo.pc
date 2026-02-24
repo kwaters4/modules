@@ -1,0 +1,12 @@
+prefix=/opt/apps/foo/1.0.0
+exec_prefix=${prefix}
+libdir=${prefix}/lib64
+includedir=${prefix}/include
+
+Name: Foo
+Description: Example Foo Library
+Version: 1.0.0
+Libs: -L${libdir} -lfoo
+Libs.private: 
+Cflags: -I${includedir}
+Requires: zlib

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libfoo.so.1 -o libfoo.so.1.0.0 CMakeFiles/foo_shared.dir/lib/foo.c.o  -Wl,-rpath,:::::::::::::::: /usr/lib64/libz.so

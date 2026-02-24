@@ -1,0 +1,9 @@
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/main.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/foo_shared.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/foo_static.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/edit_cache.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/rebuild_cache.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/list_install_components.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/install.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/install/local.dir
+/home/cosmicbox/Documents/Writing/Modules/examples/build/CMakeFiles/install/strip.dir

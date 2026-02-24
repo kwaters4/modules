@@ -1,0 +1,12 @@
+/opt/apps/foo/1.0.0/bin/main
+/opt/apps/foo/1.0.0/lib64/libfoo.so.1.0.0
+/opt/apps/foo/1.0.0/lib64/libfoo.so.1
+/opt/apps/foo/1.0.0/lib64/libfoo.so
+/opt/apps/foo/1.0.0/lib64/libfoo.a
+/opt/apps/foo/1.0.0/include/foo.h
+/opt/apps/foo/1.0.0/lib64/cmake/Foo/FooTargets.cmake
+/opt/apps/foo/1.0.0/lib64/cmake/Foo/FooTargets-release.cmake
+/opt/apps/foo/1.0.0/lib64/cmake/Foo/FooConfig.cmake
+/opt/apps/foo/1.0.0/lib64/cmake/Foo/FooConfigVersion.cmake
+/opt/apps/foo/1.0.0/lib64/pkgconfig/foo.pc
+/opt/apps/modulefiles/foo/1.0.0

@@ -1,0 +1,12 @@
+prefix=/home/cosmicbox/Documents/Writing/Modules/examples/foo
+exec_prefix=${prefix}
+libdir=${prefix}/lib64
+includedir=${prefix}/include
+
+Name: Foo
+Description: Example Foo library
+Version: 1.2.3
+Libs: -L${libdir} -lfoo
+Libs.private: 
+Cflags: -I${includedir}
+Requires: 
