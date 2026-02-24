@@ -210,7 +210,7 @@ export CMAKE_PREFIX_PATH=/opt/mylib/1.0:$CMAKE_PREFIX_PATH
 | `PATH` | Always set | Essential — exposes executables |
 | `PKG_CONFIG_PATH` | Always set | Correct scoped mechanism for build discovery |
 | `CMAKE_PREFIX_PATH` | Always set | Correct scoped mechanism for CMake discovery |
-| `LD_LIBRARY_PATH` | Dev modules only | Fine for interactive use; remove from production |
+| `LD_LIBRARY_PATH` | Dev modules only | Fine for interactive use; **remove from production** |
 | `LIBRARY_PATH` | Avoid | Only needed when no `.pc` / `Config.cmake` exists |
 | `CPATH` | Avoid | Global header injection, may cause shadowing bugs |
 | `LD_RUN_PATH` | Never | Permanently embeds build-host paths in binaries |
